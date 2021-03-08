@@ -10,6 +10,7 @@ Tools and practices used:
 - Hashing
 - Vercel
 - Materialize
+- Vanilla JavaScript
 
 
 
