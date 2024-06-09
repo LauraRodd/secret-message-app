@@ -1,7 +1,7 @@
 # Secret Message Sharing App
 
 
-This app allows users to share a secret word with a special link. 
+This app allows users to share a secret message with a special link. 
 
 
 Tools and practices used:
